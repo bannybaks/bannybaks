@@ -41,8 +41,8 @@
 
 Некоторые из моих проектов:
 
-- [Проект 1](https://github.com/bannybaks/RandomCoffeeBot): Random Coffee bot for the Mattermost.
-- [Проект 2](https://github.com/Hackaton-development-tracker/tracker-backend): Проект для образовательной платформы.
+- [RandomCoffeeBot](https://github.com/bannybaks/RandomCoffeeBot): Random Coffee bot for the Mattermost.
+- [tracker-backend](https://github.com/Hackaton-development-tracker/tracker-backend): Проект для образовательной платформы.
 
 ## 📫 Коммуникация
 
