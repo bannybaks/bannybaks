@@ -1,21 +1,16 @@
-<div id="header" align="center">
-  <div id="badges">
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=bannybaks&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Welcome to my developer page!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# Привет, я Паша! 👋
 
-### About Me :
-- My name is Pavel, I am a backend developer from Kaliningrad, Russia;
-- I specialize in developing Backend web services;
-- I participate in technical discussions, hackathons, meetups, and generally anywhere where I can learn something new, meet other developers and representatives of the IT community;
-- My inbox is always open for new ideas and discussions: [![Gmail Badge](https://img.shields.io/badge/mail%20to-8A2BE2)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCHrjFGrGPQWsTdvmLMbGPngxlbJCswqfBcFKdWzNMsmKPBPJDRglXpflPGFSjhBRpNmXDZL)
+Я backend разработчик на Python, увлеченный созданием веб-приложений с использованием Django и Flask.
 
----
-### Languages and Tools :
+## 🚀 О себе
+
+- 🐍 Python enthusiast
+- 💻 Backend Developer
+- 🌱 Всегда учусь и развиваюсь
+- 🔍 Интересуюсь архитектурой сервисов, масштабируемыми и высоконагруженными системами, безопасностью
+
+## 🛠️ Технологии и инструменты
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -35,7 +30,33 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;  
 </div>
 
----
-### My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bannybaks&theme=transparent)](https://git.io/streak-stats)
+## 📂 Проекты
+
+Некоторые из моих проектов:
+
+- [Проект 1](https://github.com/bannybaks/RandomCoffeeBot): Random Coffee bot for the Mattermost.
+- [Проект 2](https://github.com/Hackaton-development-tracker/tracker-backend): Проект для образовательной платформы.
+
+## 📫 Коммуникация
+
+Связаться со мной можно через:
+
+- [Telegram](https://t.me/B1kas)
+- [Email](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCHrjFGrGPQWsTdvmLMbGPngxlbJCswqfBcFKdWzNMsmKPBPJDRglXpflPGFSjhBRpNmXDZL)
+
+
+## 🌟 Репозитории
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=yatube_project&theme=transparent&hide_border=true&include_all_commits=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/yatube_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=blockchain_transactions&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/blockchain_transactions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=api_currency_conversion&theme=transparent&hide_border=true&text_color=FF8C00&title_color=00FFFF&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/api_currency_conversion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=acception_windows&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/acception_windows)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=homework_bot&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/homework_bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=yatube_project&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/yatube_project)
+
+
+## 📊 Личная статистика
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=bannybaks&show_icons=true&hide_border=true&hide=prs&show=prs_merged_percentage&show_icons=true&theme=transparent)  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bannybaks&layout=compact&hide_title=False&hide_progress=true&custom_title=Coding&display_format=percent)](https://github.com/bannybaks/yatube_project)
 
