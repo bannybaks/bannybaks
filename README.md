@@ -9,10 +9,10 @@
 </div>
 
 ### About Me :
-- My name is Pavel, I am a backend developer from Kaliningrad, Russia.
-- I specialize in developing Backend web services.
-- I participate in technical discussions, hackathons, meetups, and generally anywhere where I can learn something new, meet other developers and representatives of the IT community.
-- My inbox is always open for new ideas and discussions.: [![Gmail Badge](https://img.shields.io/badge/mail%20to-8A2BE2)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCHrjFGrGPQWsTdvmLMbGPngxlbJCswqfBcFKdWzNMsmKPBPJDRglXpflPGFSjhBRpNmXDZL)
+- My name is Pavel, I am a backend developer from Kaliningrad, Russia;
+- I specialize in developing Backend web services;
+- I participate in technical discussions, hackathons, meetups, and generally anywhere where I can learn something new, meet other developers and representatives of the IT community;
+- My inbox is always open for new ideas and discussions: [![Gmail Badge](https://img.shields.io/badge/mail%20to-8A2BE2)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCHrjFGrGPQWsTdvmLMbGPngxlbJCswqfBcFKdWzNMsmKPBPJDRglXpflPGFSjhBRpNmXDZL)
 
 ---
 ### Languages and Tools :
