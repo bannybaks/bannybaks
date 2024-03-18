@@ -64,6 +64,4 @@
 
 ## 📊 Личная статистика
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bannybaks&show_icons=true&hide_border=true&hide=prs&show=prs_merged_percentage&show_icons=true&theme=transparent)  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bannybaks&layout=compact&hide_title=False&hide_progress=true&custom_title=Coding&display_format=percent)](https://github.com/bannybaks/yatube_project)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=bannybaks&show_icons=true&hide_border=true&hide=prs&show=prs_merged_percentage&show_icons=true&theme=transparent)
