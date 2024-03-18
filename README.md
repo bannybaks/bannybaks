@@ -1,8 +1,15 @@
-# Привет, я Паша! 👋
-
-Я backend разработчик на Python, увлеченный созданием веб-приложений с использованием Django и Flask.
+<div id="header" align="center">
+  <div id="badges">
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=bannybaks&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Привет, я Паша! 👋
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 ## 🚀 О себе
+Я Backend разработчик на Python, увлеченный созданием "двигателей" для веб-сервисов.
 
 - 🐍 Python enthusiast
 - 💻 Backend Developer
