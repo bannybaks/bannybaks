@@ -52,6 +52,11 @@
 - [Email](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCHrjFGrGPQWsTdvmLMbGPngxlbJCswqfBcFKdWzNMsmKPBPJDRglXpflPGFSjhBRpNmXDZL)
 
 
+## 📊 Личная статистика
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=bannybaks&show_icons=true&hide_border=true&hide=prs&show=prs_merged_percentage&show_icons=true&theme=transparent)
+
+<!--
 ## 🌟 Репозитории
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=yatube_project&theme=transparent&hide_border=true&include_all_commits=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/yatube_project)
@@ -60,8 +65,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=acception_windows&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/acception_windows)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=homework_bot&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/homework_bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=yatube_project&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/yatube_project)
+--> 
 
-
-## 📊 Личная статистика
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=bannybaks&show_icons=true&hide_border=true&hide=prs&show=prs_merged_percentage&show_icons=true&theme=transparent)
