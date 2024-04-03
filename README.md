@@ -43,6 +43,7 @@
 
 - [RandomCoffeeBot](https://github.com/bannybaks/RandomCoffeeBot): Random Coffee bot for the Mattermost.
 - [tracker-backend](https://github.com/Hackaton-development-tracker/tracker-backend): Проект для образовательной платформы.
+- [woman_nuclear_industry_backend](https://github.com/bannybaks/woman_nuclear_industry_backend/tree/develop): Многопользовательский проект в области атомной энергетики
 
 ## 📫 Коммуникация
 
