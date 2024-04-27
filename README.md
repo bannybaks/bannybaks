@@ -37,28 +37,28 @@ I'm a Python Backend Developer with a passion for building web service engines.
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;  
 </div>
 
-## 📂 Проекты
+## 📂 Projects
 
-Некоторые из моих проектов:
+Some of my projects:
 
 - [RandomCoffeeBot](https://github.com/bannybaks/RandomCoffeeBot): Random Coffee bot for the Mattermost.
-- [tracker-backend](https://github.com/Hackaton-development-tracker/tracker-backend): Проект для образовательной платформы.
-- [woman_nuclear_industry_backend](https://github.com/bannybaks/woman_nuclear_industry_backend/tree/develop): Многопользовательский проект в области атомной энергетики
+- [tracker-backend](https://github.com/Hackaton-development-tracker/tracker-backend): Project for an educational platform.
+- [woman_nuclear_industry_backend](https://github.com/bannybaks/woman_nuclear_industry_backend/tree/develop): Multi-user project in the field of nuclear energy
 
-## 📫 Коммуникация
+## 📫 Communication
 
-Связаться со мной можно через:
+You can contact me through:
 
 - [Telegram](https://t.me/B1kas)
 - [Email](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCHrjFGrGPQWsTdvmLMbGPngxlbJCswqfBcFKdWzNMsmKPBPJDRglXpflPGFSjhBRpNmXDZL)
 
 
-## 📊 Личная статистика
+## 📊 Personal statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bannybaks&show_icons=true&hide_border=true&hide=prs&show=prs_merged_percentage&show_icons=true&theme=transparent)
 
 <!--
-## 🌟 Репозитории
+## 🌟 Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=yatube_project&theme=transparent&hide_border=true&include_all_commits=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/yatube_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bannybaks&repo=blockchain_transactions&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FF8C00&icon_color=FFFFFF#gh-dark-mode-only)](https://github.com/bannybaks/blockchain_transactions)
